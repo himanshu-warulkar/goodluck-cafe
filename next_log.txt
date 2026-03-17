@@ -1,0 +1,17 @@
+The directory frontend contains files that could conflict:
+
+  .next/
+  README.md
+  eslint.config.mjs
+  next-env.d.ts
+  next.config.ts
+  node_modules/
+  package-lock.json
+  package.json
+  postcss.config.mjs
+  public/
+  src/
+  tsconfig.json
+
+Either try using a new directory name, or remove the files listed above.
+
